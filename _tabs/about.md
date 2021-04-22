@@ -4,5 +4,8 @@ icon: fas fa-info
 order: 4
 ---
 
+> **Note**: In the works
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Hi there!
+
+I am a C++ Software Engineer based in Odesa, Ukraine. I am also a BSc Computer Science student at the University of London. My degree is completely online, so I can study while working full-time.
